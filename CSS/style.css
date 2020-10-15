@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+body{
+    background-image: url(../images/bg1.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    
+}
+.fastyle{
+    font-size: 50px;
+}
+.rowstyle{
+    background-color: black;
+    font-variant: small-caps;
+    font-size: 20px;
+    color: white;
+}
+img{
+    width: 100%;
+    height: 100%;
+}
+.font-div{
+    width: 30%;
+    cursor: pointer;
+}
+.btnstyle{
+    border-radius: 5px;
+    color: white;
+    padding: 4px 9px;
+    text-align: center;
+    font-weight: bold;
+    width: 15%;
+}
+.btnstyle:hover{
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
+.btn1{
+    border: 2px solid red;
+    background-color: red;
+}
+.btn2{
+    border: 2px solid rgb(255, 196, 0);
+    background-color:rgb(255, 196, 0);
+    padding: 4px 28px; 
+}
+.imgstyle{
+    width: 380px;
+    height: 250px;
+    margin: 10px 5px;
+}

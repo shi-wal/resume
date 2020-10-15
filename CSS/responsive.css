@@ -1,0 +1,27 @@
+@media only screen and (min-width: 991px){
+    .font-div{
+        padding: 42px 0px!important;
+    }
+
+}
+@media only screen and (max-width: 990px){
+    .text{
+        font-size: 28px;
+        font-weight: 500;
+    }
+    .font-div{
+        padding: 35px 0px!important;
+    }
+    .projects{
+        flex-direction: column!important;
+    }
+    .btn1{
+       width: 25%;
+    }
+    .btn2{
+        width:25%
+    }
+    .imgstyle{
+        margin:2px 0;
+    }
+}
